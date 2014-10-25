@@ -2,3 +2,4 @@
 *.db
 *~
 .idea
+db.sqlite3
